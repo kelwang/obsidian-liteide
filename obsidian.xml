@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Obsidian LiteIDE
+        Kelvin Wang <https://github.com/kelwang>
+-->
+<style-scheme version="1.0" name="evilworks">
+  <style name="Text" foreground="#E0E2E4" background="#293134"/>
+  <style name="Extra" foreground="#7d8c93" background="#293134"/>
+  <style name="Selection" foreground="#e0e2e4" background="#804000"/>
+  <style name="Comment" foreground="#7d8c93"/>
+  <style name="String" foreground="#ec7600"/>
+  <style name="Char" foreground="#ec7600"/>
+  <style name="Number" foreground="#ffcd22"/>
+  <style name="Float" foreground="#ffcd22"/>
+  <style name="Decimal" foreground="#ffcd22"/>
+  <style name="FuncDecl" foreground="#e0e2e4"/>
+  <style name="Function" foreground="#678cb1"/>
+  <style name="Keyword" foreground="#93c763"/>
+  <style name="BuiltinFunc" foreground="#678cb1"/>
+  <style name="DataType" foreground="#678cb1" bold="true"/>
+  <style name="ToDo" foreground="#ff8bff" bold="true" />
+  <style name="Alert" foreground="#FF0000"/>
+  <style name="BaseN" foreground="#E0E2E4"/>
+  <style name="CurrentLine" background="#333333"/>
+  <style name="Error" foreground="#FF0000" bold="true"/>
+  <style name="InactiveSelection" foreground="#808000" background="#602020"/>
+  <style name="IndentLine" foreground="#64B1FF"/>
+  <style name="Placeholder" foreground="#00FFEF"/>
+  <style name="Predeclared" foreground="#FF00FF" bold="true"/>
+  <style name="RegionMarker" foreground="#e8e287"/>
+  <style name="Symbol" foreground="#FF0000" bold="true"/>
+  <style name="VisualWhitespace" foreground="#FFFFFF" background="#0000000"/>
+</style-scheme>
